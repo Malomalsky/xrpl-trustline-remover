@@ -19,7 +19,7 @@ This tool automatically removes all trust lines that have zero balance, releasin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/xrpl-trustline-remover.git
+git clone https://github.com/Malomalsky/xrpl-trustline-remover.git
 cd xrpl-trustline-remover
 ```
 
